@@ -1,0 +1,19 @@
+{
+  "name": "sicpjs",
+  "version": "1.0.0",
+  "description": "SICP in JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest",
+    "lint": "./node_modules/.bin/eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "jest": "^23.6.0"
+  }
+}
