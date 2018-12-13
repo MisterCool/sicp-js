@@ -1,4 +1,4 @@
-const result = require('../1.2.js');
+const result = require('../src/1.2');
 
 test('show result -0.2....', () => {
   expect(result()).toBe(-0.24666666666666667);

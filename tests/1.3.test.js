@@ -1,4 +1,4 @@
-const sumOfTree = require('../1.3.js');
+const sumOfTree = require('../src/1.3');
 
 test('summ of 1, 2, 3 equal 6', () => {
   expect(sumOfTree(1, 2, 3)).toBe(6);
