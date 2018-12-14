@@ -10,7 +10,7 @@ function test(x, y) {
   return x === 0 ? 0 : y;
 }
 
-test(0, p());
+//test(0, p());
 
 // What behavior will Ben observe with an interpreter that uses applicative-order evaluation?
 // What behavior will he observe with an interpreter that uses normal-order evaluation? Explain your answer.
