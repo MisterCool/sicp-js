@@ -7,7 +7,7 @@ function improve(guess, x) {
 }
 
 function abs(x) {
-  return x > 0 ? x : -x;
+  return x >= 0 ? x : -x;
 }
 
 function square(x) {
