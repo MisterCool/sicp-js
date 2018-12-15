@@ -1,7 +1,7 @@
 const cubeRoot = require('../src/1.8');
 
 test('testing sqrCube', () =>{
-  //expect(Number(cubeRoot(1).toFixed(4))).toBe(1);
+  expect(Number(cubeRoot(1, 1).toFixed(4))).toBe(1);
   expect(Number(cubeRoot(1, 8).toFixed(4))).toBe(2);
   expect(Number(cubeRoot(1, 27).toFixed(4))).toBe(3);
   expect(Number(cubeRoot(1, 64).toFixed(4))).toBe(4);
