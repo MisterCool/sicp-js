@@ -1,11 +1,14 @@
 That repository created for studying SICP purpose only.
+
 #### Sources
 
 [SICP JavaScript Adaptation (EN)](https://www.comp.nus.edu.sg/~cs1101s/sicp/)
+
 [Сборник решений из учебника с объяснениями. (RU)](http://sicp.sergeykhenkin.com/about/)
+
 [Книга на русском. PDF](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
 
-#### Clon it
+#### Clone it
 
 ***example***
 
@@ -23,4 +26,4 @@ That repository created for studying SICP purpose only.
 
 ```make test```
 
-thanks to ***@Hexlet.io***
+many thanks to ***@Hexlet.io***
